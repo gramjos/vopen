@@ -1,0 +1,5 @@
+Automator application
+
+open file directly to Terminal's Vim
+
+if Terminal is currently running, then new tab created
